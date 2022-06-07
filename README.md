@@ -1,4 +1,4 @@
-# Predict-survival-on-the-Titanic
+# Prediction Titanic Survivors
 Hello,
 
 for my second machine learning project, I trained a model that can predict Titanic Survivors. I used Logistic regression method to train this model, and accuracy is so good as you can see in the notebook.
